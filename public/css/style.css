@@ -22,3 +22,216 @@
      float: none;
      margin: 0;
 }
+
+
+
+
+/**{
+    margin: 0px;
+    padding: 0px;
+}*/
+.loginbg {
+     /* The image used */
+
+     background-repeat: no-repeat;
+     background-size: cover;
+     overflow: auto;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+}
+
+.mainbg {
+     /* The image used */
+     height: auto;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: auto;
+     overflow: auto;
+
+
+}
+
+
+
+.row {
+
+     margin: 0;
+     padding: 0;
+
+}
+
+.flightplanrow{
+
+     border:1px solid #338aff;
+     height: auto;
+     margin-bottom: auto;
+
+}
+.user
+{
+     height: 150px;
+     width: 150px;
+     border-radius: 100%;
+     overflow: hidden;
+     position: absolute;
+     top: calc(-100px/2);
+     left: calc(50% - 50px);
+}
+.loginbox
+{
+     position: relative;
+     margin-top: 20%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     padding: 80px 40px;
+     width: 380px;
+     height: 450px;
+     align-content: center;
+     box-sizing: border-box;
+     background: rgba(0,0,0,.3);
+     border-radius: 10px;
+}
+.registerbox
+{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     padding: 80px 40px;
+     width: 380px;
+     height: auto;
+     box-sizing: border-box;
+     background: rgba(0,0,0,.4);
+}
+/*h2
+{
+    margin: 0;
+    color: #ffffff;
+    margin-top: 10px;
+
+}*/
+.transparent
+{
+     background:transparent;
+}
+label.error
+{
+     color: red;
+     font-size: 11px;
+     font-family: vardana;
+     padding: 0px;
+     margin: 0px;
+     padding-bottom:0px;
+     margin-bottom: 0px;
+}
+.error{
+     padding: 0;
+     margin: 0;
+}
+
+.northsector
+{
+
+
+     box-sizing: border-box;
+     background: rgba(0,0,0,.3);
+
+
+
+}
+.bgtransparent
+{
+
+
+     box-sizing: border-box;
+     background: rgba(0,0,0,.5);
+
+
+}
+
+
+.displaydata
+{
+
+
+
+     box-sizing: border-box;
+     background: rgba(0,0,0,.3);
+     text-align: center;
+}
+
+
+
+
+
+
+.line
+{
+
+     line-height: 50px;
+     height: 50px;
+
+}
+
+
+
+.indicator a:before{
+
+     content: "\00BB \0020";
+
+
+     width: 10px;
+
+}
+
+.accordion .card-header:after {
+     font-family: 'FontAwesome';
+     content: "-";
+     float: right;
+}
+.accordion .card-header.collapsed:after {
+     /* symbol for "collapsed" panels */
+     content: "+";
+}
+
+.licolor
+{
+     background-color: #A8D3FB;
+}
+
+.link:hover
+{
+     background-color: #ffffff;
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+     .navbar-brand.abs
+     {
+          position: absolute;
+          width: 100%;
+          left: 0;
+          text-align: center;
+          margin:0 auto;
+     }
+}
+
+.pafbrand
+{
+     font-weight: bold;
+     border-right: double;
+     color: #338aff;
+     margin-left: 45%;
+}
+.navbarlinks
+{
+     font-weight: bold;
+     color: #338aff;
+}
+
+.btnmargin
+{
+     margin-left: 40%;
+}
