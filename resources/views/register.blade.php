@@ -25,10 +25,6 @@
 			<label for="PostCode" class="font-weight-bold text-white">PostCode</label>
             <input type="number" name="postcode" id="postcode" class="form-control transparent">
 		</div>
-        <div class="input-append date" id="datetimepicker" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-            <input class="span2 transparent form-control" size="16" type="text" value="12-02-2012">
-            <span class="add-on"><i class="icon-th"></i></span>
-        </div>
         <label class="text-white font-weight-bold">Email</label>
 		<input type="email" id="email" name="email" required="Email" placeholder="Email" class="form-control transparent">
 		<label class="text-white font-weight-bold">Phone</label>
