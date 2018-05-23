@@ -7,8 +7,5 @@ use Illuminate\Support\Facades\Log;
 
 class StudentController extends Controller
 {
-    public function index()
-    {
-    	return view('welcome');
-    }
+
 }
