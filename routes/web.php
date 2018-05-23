@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('login');
 });
+
+Route::post('/login','StudentController@index');
+Route::get('/register',function ()
+{
+	return view('register');
+});

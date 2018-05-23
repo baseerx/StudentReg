@@ -13,7 +13,7 @@
 <div class="loginbox">
 	<img src="login.png" class="user">
 	<h2 class="text-center font-weight-bold text-info">Login Here</h2>
-	<form method="post">
+	<form method="post" action="/login">
 		<label class="text-white">Email:</label>
 		<input type="email" id="email" name="email" required="Email" placeholder="Email" class="form-control transparent" autofocus="Email">
 
@@ -24,7 +24,7 @@
 		<input type="submit" name="submit" id="submit" class="btn btn-primary btnmargin" value="Sign In">
 		<br>
 
-		{{--<a href="{{URL::route('register')}}">Register Here</a>--}}
+		<a href="/register" class="text-danger font-weight-bold mt-lg-5">Register Here</a>
 		{{--<p style="color: #FF0000;font-weight: bold;" id="error">{{ $name }}</p>--}}
 		<!-- <div class="alert alert-danger">sadas</div>	 -->
 	</form>

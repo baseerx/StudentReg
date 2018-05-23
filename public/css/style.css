@@ -56,6 +56,7 @@
 
 
 
+
 .row {
 
      margin: 0;
@@ -234,4 +235,111 @@ label.error
 .btnmargin
 {
      margin-left: 40%;
+}
+
+
+.flightplanSpan
+{
+     color: white;
+     font-size-adjust: 0.42;
+     font-weight: bold;
+}
+.paftitle
+{
+
+     font-weight: bold;
+     border-right: double;
+     color: #338aff;
+}
+.fprightrow
+{
+     border:1.5px dashed #338aff;padding: 0.3%;padding-left: 7%; margin-top: 0.2%;
+}
+
+.cardmargin
+{
+     margin-top: 0.5%;
+     margin-bottom: 0.5%;
+     background-color: #D7EAFC;
+}
+.mgtop
+{
+     margin-top: 4%;
+}
+.fpleftrow
+{
+     margin-top: 2%;
+}
+
+/*.displayportiondiv {*/
+/*height: 30%;*/
+/*width: 100%;*/
+/*border:2px dashed #338aff;*/
+
+/*}*/
+.displayportiondiv{
+     max-height: 30%;
+     min-height: 30%;
+     width: 100%;
+     border:2px dashed #338aff;
+}
+
+.secondlastbottom
+{
+     height: 13%;
+     width: 100%;
+
+}
+
+.btnmarginleft
+{
+     margin-left: 3%;
+}
+
+button:focus{
+     background:#338aff;
+}
+.cardheight
+{
+     height: 5%;
+
+}
+
+/*.no-gutters {*/
+/*margin-right: 0;*/
+/*margin-left: 0;*/
+/*> [class*="col-"] {*/
+/*padding-right: 0;*/
+/*padding-left: 0;*/
+/*}*/
+/*}*/
+
+/*.fontsize
+{
+    font-size: 14px;
+}*/
+.displayborder
+{
+     border: 2px dashed #338aff;
+}
+
+.alert {
+
+     height: 50px;
+     line-height:30px;
+     padding:5px 15px;
+}
+
+.table-condensed{
+     font-size: 11px;
+}
+.thead_cls
+{
+     line-height: 4px;min-height: 4px;height: 4px;font-weight: bold; font-size: 14px;
+}
+
+.invalid
+{
+     color: red;
+     font-size: 12px;
 }
