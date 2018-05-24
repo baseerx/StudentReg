@@ -10,10 +10,11 @@
 	<link rel="stylesheet" href="{{ URL::asset('css/style.css') }}">
 </head>
 <body class="mainbg img-responsive img" background="login_bg.jpg">
+@include('Header')
 <div class="loginbox">
 	<img src="login.png" class="user">
 	<h2 class="text-center font-weight-bold text-info">Login Here</h2>
-	<form method="post" action="/login">
+	<form method="post" action="/">
 		<label class="text-white">Email:</label>
 		<input type="email" id="email" name="email" required="Email" placeholder="Email" class="form-control transparent" autofocus="Email">
 
@@ -29,6 +30,7 @@
 		<!-- <div class="alert alert-danger">sadas</div>	 -->
 	</form>
 </div>
+@include('Footer')
 <script type="text/javascript" src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
