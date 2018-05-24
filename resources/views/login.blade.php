@@ -14,7 +14,7 @@
 <div class="loginbox">
 	<img src="login.png" class="user">
 	<h2 class="text-center font-weight-bold text-info">Login Here</h2>
-	<form method="post" action="/">
+	<form method="post" action="/postlogin">
 		<label class="text-white">Email:</label>
 		<input type="email" id="email" name="email" required="Email" placeholder="Email" class="form-control transparent" autofocus="Email">
 
