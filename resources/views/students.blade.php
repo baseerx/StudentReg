@@ -16,8 +16,14 @@
         <thead class="thead-light">
         <tr>
             <th scope="col">#</th>
-            <th scope="col">FieldName</th>
-            <th scope="col">DataType</th>
+            <th scope="col">StudentID</th>
+            <th scope="col">Address</th>
+            <th scope="col">PostCode</th>
+            <th scope="col">DOB</th>
+            <th scope="col">Email</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Course</th>
+            <th scope="col">Module</th>
 
         </tr>
         </thead>
@@ -26,18 +32,14 @@
             <th scope="row">1</th>
             <td>Mark</td>
             <td>Otto</td>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>Mark</td>
+            <td>Otto</td>
         </tr>
-        <tr>
-            <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>Thornton</td>
 
-        </tr>
-        <tr>
-            <th scope="row">3</th>
-            <td>Larry</td>
-            <td>the Bird</td>
-        </tr>
         </tbody>
     </table>
 </div>
