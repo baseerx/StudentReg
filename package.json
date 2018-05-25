@@ -19,6 +19,8 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "bootstrap": "^4.0.0-beta"
+        "bootstrap": "^4.0.0-beta",
+        "font-awesome": "^4.7.0",
+        "jquery-ui": "^1.12.1"
     }
 }
