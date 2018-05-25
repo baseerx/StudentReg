@@ -8,7 +8,7 @@
         <div class="container text-center align-content-center">
             <ul class="navbar-nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link text-dark bg-light" href="#">Departments</a>
+                    <a class="nav-link text-dark bg-light" href="/department">Department</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-dark bg-light" href="//codeply.com">CourseList</a>

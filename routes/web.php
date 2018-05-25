@@ -26,3 +26,7 @@ Route::get('/register',function ()
 {
 	return view('register');
 });
+Route::get('/department',function ()
+{
+	return view('Department');
+});
