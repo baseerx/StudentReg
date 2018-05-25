@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'mysql'),
+    'default' => env('DB_CONNECTION', 'access'),
 
     /*
     |--------------------------------------------------------------------------
@@ -37,6 +37,13 @@ return [
             'driver' => 'sqlite',
             'database' => env('DB_DATABASE', database_path('database.sqlite')),
             'prefix' => '',
+        ],
+        'access' => [
+            'driver' => 'pdo_access',
+            'connection_string' => 'dsn={namedsn}',
+            'username' => '',
+            'password' => '',
+            'table_prefix' => '',
         ],
 
         'mysql' => [
