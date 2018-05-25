@@ -1,5 +1,5 @@
 <nav class="navbar navbar-light bg-light navbar-expand-md justify-content-center">
-    <a href="/" class="navbar-brand d-flex w-50 mr-auto"><img src="reg_img.jpg" alt="Logo" style="width:100px;height: 50px;" class="img-responsive img"></a>
+    <a href="/" class="navbar-brand d-flex w-50 mr-auto text-info">GoldenEagleUniversity</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
         <span class="navbar-toggler-icon"></span>
@@ -8,16 +8,16 @@
         <div class="container text-center align-content-center">
             <ul class="navbar-nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link text-info" href="#">Link</a>
+                    <a class="nav-link text-dark bg-light" href="#">Departments</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-info" href="//codeply.com">Codeply</a>
+                    <a class="nav-link text-dark bg-light" href="//codeply.com">CourseList</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-info" href="#">Link</a>
+                    <a class="nav-link text-dark bg-light" href="#">Module</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-info" href="#">Link</a>
+                    <a class="nav-link text-dark bg-light" href="#">Students</a>
                 </li>
             </ul>
         </div>
@@ -29,10 +29,10 @@
                 <a class="nav-link" href="#"></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-dark" href="/login">Login</a>
+                <a class="nav-link text-dark bg-light" href="/login">Login</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-dark" href="/register">Register</a>
+                <a class="nav-link text-dark bg-light" href="/register">Register</a>
             </li>
         </ul>
     </div>

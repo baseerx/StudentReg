@@ -31,8 +31,8 @@
         </div>
         <div class="row">
             <div class="col-4">
-                <label for="postcode" class="text-white">postcode</label>
-                <select class="form-control-sm w-50" id="postcode">
+                <label for="courseid" class="text-white">courseid</label>
+                <select class="form-control-sm w-50" id="courseid">
                     <option value="MM04">BA(Hons)Creative Music</option>
                     <option value="DD34">BA(Hons)Drama</option>
                     <option value="DF34">BA(Hons)Drama&filmStd</option>
@@ -71,8 +71,8 @@
         <div class="row mt-2">
             <div class="col-3"></div>
             <div class="col-4 ml-5 mt-2">
-                <label class="text-white">CourseId</label>
-                <input type="text" id="courseid" name="courseid" required="CourseId" placeholder="******" class="form-control-sm w-50 transparent bg-light">
+                <label class="text-white">PostCode</label>
+                <input type="text" id="postcode" name="postcode" required="PostCode" placeholder="******" class="form-control-sm w-50 transparent bg-light">
             </div>
             <div class="col-4">
                 <label class="text-white ml-5">DOB</label>
