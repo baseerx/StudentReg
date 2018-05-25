@@ -11,13 +11,13 @@
                     <a class="nav-link text-dark bg-light" href="/department">Department</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark bg-light" href="//codeply.com">CourseList</a>
+                    <a class="nav-link text-dark bg-light" href="/courses">Courses</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark bg-light" href="#">Module</a>
+                    <a class="nav-link text-dark bg-light" href="/module">Module</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark bg-light" href="#">Students</a>
+                    <a class="nav-link text-dark bg-light" href="/students">Students</a>
                 </li>
             </ul>
         </div>

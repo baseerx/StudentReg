@@ -30,3 +30,15 @@ Route::get('/department',function ()
 {
 	return view('Department');
 });
+Route::get('/students',function ()
+{
+	return view('students');
+});
+Route::get('/module',function ()
+{
+	return view('Module');
+});
+Route::get('/courses',function ()
+{
+	return view('Courses');
+});
