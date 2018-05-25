@@ -11,7 +11,14 @@
 <body>
 @include('Header')
 <hr>
-<div class="container align-content-center align-items-center text-center">asndasndasafsdgfggfdhgffghgh,asn</div>
+<div class="container align-content-center align-items-center text-center">
+    <h2 class="left">Introduction</h2>
+    <p class="text-nowrap justify-content-around"><strong>The University of Golden Eagle</strong>&nbsp;<mark>societal challenges with diverse knowledge.
+        <br> There is a strong sense of openness at the University of GoldenEagle.  <br> The University actively participates in the public debate and interacts with the<br> surrounding society through continuous dialogues and knowledge exchange, nationally and internationally.</mark><br></p>
+    <hr>
+     <strong>Educational</strong>
+   <p><mark>Strong research and attractive study programmes attract scientists and<br> students from all around the world. <br>They offer new perspectives and help solve the major challenges facing the world.</mark><br></p>
+</div>
 <hr>
 {{--Footer starts here--}}
 @include('Footer')

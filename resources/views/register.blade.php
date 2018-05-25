@@ -78,7 +78,7 @@
                 <label class="text-white ml-5">DOB</label>
                 <input type="date" id="dob" name="dob" required="dob" placeholder="******" class="form-control-sm w-50 transparent bg-light">
             </div>
-            <div class="col-2"></div>
+            <div class="col-4"></div>
         </div>
         <br>
         <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
