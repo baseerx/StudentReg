@@ -42,3 +42,4 @@ Route::get('/courses',function ()
 {
 	return view('Courses');
 });
+Route::get('/check','StudentController@check');
