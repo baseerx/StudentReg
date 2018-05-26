@@ -10,7 +10,7 @@
             </div>
             <div id="navbar" class="navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="../navbar/" class="text-dark font-weight-bold">CopyWrite@2018</a></li>
+                    <li><a href="#" class="text-dark font-weight-bold">CopyWrite@2018</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>

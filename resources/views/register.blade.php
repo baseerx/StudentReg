@@ -31,7 +31,7 @@
         </div>
         <div class="row">
             <div class="col-4">
-                <label for="courseid" class="text-white">courseid</label>
+                <label for="courseid" class="text-white ml-2">courseid</label>
                 <select class="form-control-sm w-50" id="courseid">
                     <option value="MM04">BA(Hons)Creative Music</option>
                     <option value="DD34">BA(Hons)Drama</option>
@@ -64,7 +64,7 @@
                 <input type="email" id="email" name="email" required="Email" placeholder="Email" class="form-control-sm w-50 transparent bg-light">
             </div>
             <div class="col-4">
-                <label class="text-white ml-2">Phone</label>
+                <label class="text-white ml-lg-2 m-0">&nbsp;Phone</label>
                 <input type="text" id="phone" name="phone" required="Phone Number" placeholder="******" class="form-control-sm w-50 transparent ml-1 bg-light">
             </div>
         </div>
@@ -75,7 +75,7 @@
                 <input type="text" id="postcode" name="postcode" required="PostCode" placeholder="******" class="form-control-sm w-50 transparent bg-light">
             </div>
             <div class="col-4">
-                <label class="text-white ml-lg-5 m-2">DOB</label>
+                <label class="text-white ml-5 m-1">DOB</label>
                 <input type="date" id="dob" name="dob" required="dob" placeholder="******" class="form-control-sm w-50 transparent bg-light">
             </div>
             <div class="col-4"></div>
