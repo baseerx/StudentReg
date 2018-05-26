@@ -24,21 +24,44 @@
         <tbody>
         <tr>
             <th scope="row">1</th>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>@mdo</td>
+
+            <td>DT5650</td>	<td>Allied and public health</td><td>Surrey</td>
+
         </tr>
         <tr>
             <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>Thornton</td>
-            <td>@fat</td>
+            <td>DT5643</td><td>Animal sciences</td>	<td>London</td>
         </tr>
         <tr>
             <th scope="row">3</th>
-            <td>Larry</td>
-            <td>the Bird</td>
-            <td>@twitter</td>
+            <td>DT5644</td>	<td>Business</td>	<td>Surrey</td>
+
+        </tr>
+        <tr>
+            <th scope="row">4</th>
+            <td>DT5648</td>	<td>Computing and digital technology</td><td>Essex</td>
+
+        </tr>
+        <tr>
+            <th scope="row">5</th>
+            <td>DT5647</td>	<td>Law, crime and investigation</td>	<td>London</td>
+
+        </tr>
+        <tr>
+            <th scope="row">6</th>
+            <td>DT5646</td>	<td>Music and performing arts</td>	<td>Essex</td>
+        </tr>
+        <tr>
+            <th scope="row">7</th>
+            <td>DT5646</td>	<td>Music and performing arts</td>	<td>Essex</td>
+        </tr>
+        <tr>
+            <th scope="row">8</th>
+            <td>DT5645</td>	<td>Sciences, nutrition and pharmaceutical</td>	<td>London</td>
+        </tr>
+        <tr>
+            <th scope="row">9</th>
+            <td>DT5649 </td>	<td>Social care</td>	<td>Surrey </td>
         </tr>
         </tbody>
     </table>
