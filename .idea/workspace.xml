@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1990af1-1398-48c2-b0e5-72b533cc3181" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Courses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Courses.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Department.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Department.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/students.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/students.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/register.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,9 +16,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="register.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
@@ -93,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="students.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="students.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/students.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="219">
@@ -140,7 +141,6 @@
         <option value="$PROJECT_DIR$/resources/views/Header.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Module.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/register.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/config/database.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
@@ -151,6 +151,7 @@
         <option value="$PROJECT_DIR$/resources/views/Department.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Courses.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/students.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/register.blade.php" />
       </list>
     </option>
   </component>
@@ -361,12 +362,12 @@
       <workItem from="1527277708686" duration="401000" />
       <workItem from="1527296899171" duration="2276000" />
       <workItem from="1527303499836" duration="60000" />
-      <workItem from="1527337770895" duration="3125000" />
+      <workItem from="1527337770895" duration="3389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43097000" />
+    <option name="totallyTimeSpent" value="43361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -485,13 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -576,6 +570,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>

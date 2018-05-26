@@ -14,7 +14,7 @@
 <div class="registerbox">
     <img src="login.png" class="user">
     <br>
-    <form method="post">
+    <form method="post" action="/">
         <div class="row">
             <div class="col-4">
                 <label for="firstname" class="text-white">StudentId</label>
